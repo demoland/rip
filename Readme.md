@@ -1,9 +1,9 @@
-#RIP: Resources In Project
+# RIP: Resources In Project
 
 The Terraform API sets a unique identifier for every resource in Terraform.  
 In order to get the list of resources in a project, you have to have two inputs to this script: 
 
-*This is a simple script that:*
+**This is a simple script that:**
 
 * Gets the Project ID
 * Gets the list of workspaces in a Project
@@ -11,7 +11,7 @@ In order to get the list of resources in a project, you have to have two inputs 
 * Prints the list of resources in a Workspace 
 
 
-*To run:* 
+**To run:** 
 
 ```bash
 ./rip.sh <org> <project_name>
