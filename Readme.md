@@ -1,6 +1,6 @@
 # RIP: Resources In Project
 
-The Terraform API sets a unique identifier for every resource in Terraform.  
+The Terraform API gets a unique identifier for every resource in Terraform.  
 In order to get the list of resources in a project, you have to have two inputs to this script: 
 
 **This is a simple script that:**
