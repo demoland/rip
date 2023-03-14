@@ -11,7 +11,11 @@ In order to get the list of resources in a project, you have to have two inputs 
 * Prints the list of resources in a Workspace 
 
 
-The following 
+*To run:* 
+
+```bash
+./rip.sh <org> <project_name>
+```
 
 ### Set Token Variable: 
 
